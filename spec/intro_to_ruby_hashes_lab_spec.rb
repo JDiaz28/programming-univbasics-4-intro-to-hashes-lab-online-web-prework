@@ -93,7 +93,7 @@ read_from_hash = {
   "pet" => "dog", :name => "Bear"
 }
 update_counting_hash = {
-  "length" => 8
+  "length" => 8 :width => 7
 }
 
 
