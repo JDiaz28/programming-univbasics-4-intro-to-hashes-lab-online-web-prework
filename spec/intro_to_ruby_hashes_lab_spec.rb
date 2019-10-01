@@ -75,3 +75,5 @@ describe "updating data in a hash" do
   end
 
 end
+
+new_hash 
