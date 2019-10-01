@@ -90,7 +90,7 @@ my_hash_creator {
   :height => 5.5
 }
 read_from_hash = {
-  
+  "pet" => "dpg"
 }
 }
 
