@@ -78,7 +78,16 @@ end
 
 new_hash = {}
 my_hash = { 
-  :name => "Juan" }
-
-
+  :age => 25
+  }
+pioneer = {
+  :name => 'Grace Hopper'
+}
+id_generator = {
+  :id => 59
+}
+my_hash_creator {
+  
+}
+}
 
