@@ -87,7 +87,10 @@ id_generator = {
   :id => 59
 }
 my_hash_creator {
-  :
+  :height => 5.5
+}
+read_from_hash = {
+  
 }
 }
 
