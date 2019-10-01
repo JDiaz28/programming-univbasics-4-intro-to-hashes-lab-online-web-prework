@@ -87,7 +87,7 @@ id_generator = {
   :id => 59
 }
 my_hash_creator {
-  
+  :
 }
 }
 
